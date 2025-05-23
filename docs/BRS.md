@@ -42,7 +42,6 @@ Kajian BRS
 
     b. Pendaftaran/kemaskini maklumat
         i. Kenderaan
-            1. Kenderaan
-            2. Rekod Penyelenggaraan kereta
-            3. Pelantikan pegawai perolehan
+            1. Rekod Penyelenggaraan kereta
+            2. Pelantikan pegawai perolehan
         ii. Jadual Harian Pemandu
